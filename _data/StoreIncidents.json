@@ -1,16 +1,6 @@
 {
 	"incitems" : [
 	{
-		"abr": "tornado",
-		"price": 800,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "tornados",
-		"price": 2600,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "clearweather",
 		"price": 400,
 		"karmatype": "Good"
@@ -71,11 +61,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "solarflare",
-		"price": 500,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "shortcircuit",
 		"price": 500,
 		"karmatype": "Bad"
@@ -102,12 +87,17 @@
 	},
 	{
 		"abr": "blight",
-		"price": 700,
+		"price": 1300,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "animaltame",
 		"price": 150,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "wandererjoins",
+		"price": 50,
 		"karmatype": "Good"
 	},
 	{
@@ -147,7 +137,7 @@
 	},
 	{
 		"abr": "psychicdrone",
-		"price": 400,
+		"price": 15000,
 		"karmatype": "Bad"
 	},
 	{
@@ -227,7 +217,7 @@
 	},
 	{
 		"abr": "raid",
-		"price": 1500,
+		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
@@ -253,7 +243,7 @@
 	{
 		"abr": "infestation",
 		"price": 2500,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "manhunterpack",
@@ -272,12 +262,12 @@
 	},
 	{
 		"abr": "disease",
-		"price": 1000,
+		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "reviveanypawn",
-		"price": 1200,
+		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
@@ -322,12 +312,12 @@
 	},
 	{
 		"abr": "torytalkervote",
-		"price": 750,
+		"price": 450,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "hodlbotvote",
-		"price": 600,
+		"price": 1000,
 		"karmatype": "Neutral"
 	},
 	{
@@ -357,7 +347,7 @@
 	},
 	{
 		"abr": "surgery",
-		"price": 500,
+		"price": 1,
 		"karmatype": "Neutral"
 	},
 	{
@@ -401,6 +391,11 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "cleartraits",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
 		"abr": "use",
 		"price": 1,
 		"karmatype": "Neutral"
@@ -436,5 +431,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 87
+	"total": 86
 }
