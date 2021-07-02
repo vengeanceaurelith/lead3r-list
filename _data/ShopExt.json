@@ -2,12 +2,8 @@
   "traits": [
     {
       "description": "Timmy always says exactly what's on his mind, especially if it's bugging him. That tends to rub people the wrong way.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
+      "stats": [],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -15,12 +11,8 @@
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
+        "conflicts": [],
+        "stats": []
       },
       "defName": "Abrasive",
       "name": "abrasive",
@@ -32,12 +24,8 @@
     },
     {
       "description": "Timmy's voice has a particularly grating, nasal quality to it, and he tends to talk in barked, garbled phrases. This predisposes others to dislike him.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
+      "stats": [],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -45,12 +33,8 @@
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
+        "conflicts": [],
+        "stats": []
       },
       "defName": "AnnoyingVoice",
       "name": "annoyingvoice",
@@ -98,12 +82,8 @@
     },
     {
       "description": "Timmy has no sexual attraction to anyone at all.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
+      "stats": [],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -111,12 +91,8 @@
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
+        "conflicts": [],
+        "stats": []
       },
       "defName": "Asexual",
       "name": "asexual",
@@ -131,9 +107,7 @@
       "stats": [
         "+2.0 beauty"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -141,9 +115,7 @@
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "+2.0 beauty"
         ]
@@ -158,12 +130,8 @@
     },
     {
       "description": "Timmy is romantically attracted to both men and women.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
+      "stats": [],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -171,12 +139,8 @@
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
+        "conflicts": [],
+        "stats": []
       },
       "defName": "Bisexual",
       "name": "bisexual",
@@ -191,9 +155,7 @@
       "stats": [
         "Morbid meditation focus type allowed."
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -201,9 +163,7 @@
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "Morbid meditation focus type allowed."
         ]
@@ -218,9 +178,7 @@
     },
     {
       "description": "Timmy believes the human body is limited for a reason. To him, artificial body parts are unethical and disgusting.",
-      "stats": [
-
-      ],
+      "stats": [],
       "conflicts": [
         "transhumanist"
       ],
@@ -234,9 +192,7 @@
         "conflicts": [
           "transhumanist"
         ],
-        "stats": [
-
-        ]
+        "stats": []
       },
       "defName": "BodyPurist",
       "name": "bodypurist",
@@ -291,9 +247,7 @@
       "stats": [
         "Morbid meditation focus type allowed."
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -301,9 +255,7 @@
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "Morbid meditation focus type allowed."
         ]
@@ -350,12 +302,8 @@
     },
     {
       "description": "Timmy is utterly fascinated with chemical sources of enjoyment. Consuming recreational drugs will create a good mood, while abstaining will lead to increasing frustration over time and possibly drug binges. he will ignore directives to not use recreational drugs, and will consume more than a normal person.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
+      "stats": [],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -363,12 +311,8 @@
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
+        "conflicts": [],
+        "stats": []
       },
       "defName": "DrugDesire",
       "name": "chemicalfascination",
@@ -380,12 +324,8 @@
     },
     {
       "description": "Timmy has an unusual interest in chemical sources of enjoyment. Consuming recreational drugs will create a good mood, while abstaining will lead to increasing frustration over time and possible drug binges. he will ignore directives to not use recreational drugs, and will consume more than a normal person.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
+      "stats": [],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -393,12 +333,8 @@
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
+        "conflicts": [],
+        "stats": []
       },
       "defName": "DrugDesire",
       "name": "chemicalinterest",
@@ -410,12 +346,8 @@
     },
     {
       "description": "Timmy breathes heavily all the time, and sweats constantly. People find it creepy.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
+      "stats": [],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -423,12 +355,8 @@
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
+        "conflicts": [],
+        "stats": []
       },
       "defName": "CreepyBreathing",
       "name": "creepybreathing",
@@ -440,12 +368,8 @@
     },
     {
       "description": "Timmy is perenially unhappy. he has trouble sustaining a good mood even when everything is fine.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
+      "stats": [],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -453,12 +377,8 @@
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
+        "conflicts": [],
+        "stats": []
       },
       "defName": "NaturalMood",
       "name": "depressive",
@@ -473,9 +393,7 @@
       "stats": [
         "+80% global learning factor"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -483,9 +401,7 @@
         "karmaTypeForRemoving": null,
         "mod": "Traits Expanded!",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "+80% global learning factor"
         ]
@@ -503,9 +419,7 @@
       "stats": [
         "+0.20 move speed"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -513,9 +427,7 @@
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "+0.20 move speed"
         ]
@@ -530,12 +442,8 @@
     },
     {
       "description": "Timmy is romantically attracted to people of his own gender.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
+      "stats": [],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -543,12 +451,8 @@
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
+        "conflicts": [],
+        "stats": []
       },
       "defName": "Gay",
       "name": "gay",
@@ -592,12 +496,8 @@
     },
     {
       "description": "Timmy has a fantastic memory for detail. he will lose unused skills at half the rate of other people.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
+      "stats": [],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -605,12 +505,8 @@
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
+        "conflicts": [],
+        "stats": []
       },
       "defName": "GreatMemory",
       "name": "greatmemory",
@@ -622,9 +518,7 @@
     },
     {
       "description": "Timmy needs a really impressive bedroom. he gets a mood loss if he doesn't get what he wants.",
-      "stats": [
-
-      ],
+      "stats": [],
       "conflicts": [
         "ascetic",
         "jealous"
@@ -640,9 +534,7 @@
           "ascetic",
           "jealous"
         ],
-        "stats": [
-
-        ]
+        "stats": []
       },
       "defName": "Greedy",
       "name": "greedy",
@@ -657,9 +549,7 @@
       "stats": [
         "+20% global work speed"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -667,9 +557,7 @@
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "+20% global work speed"
         ]
@@ -687,9 +575,7 @@
       "stats": [
         "+35% global work speed"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -697,9 +583,7 @@
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "+35% global work speed"
         ]
@@ -717,9 +601,7 @@
       "stats": [
         "-18% mental break threshold"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -727,9 +609,7 @@
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "-18% mental break threshold"
         ]
@@ -779,9 +659,7 @@
       "stats": [
         "+0.40 move speed"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -789,9 +667,7 @@
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "+0.40 move speed"
         ]
@@ -806,9 +682,7 @@
     },
     {
       "description": "Timmy is exceptionally kind. he has a special way of using kind words to brighten someone's day. he never insults others, and never judges people by their appearance.",
-      "stats": [
-
-      ],
+      "stats": [],
       "conflicts": [
         "abrasive",
         "psychopath"
@@ -824,9 +698,7 @@
           "abrasive",
           "psychopath"
         ],
-        "stats": [
-
-        ]
+        "stats": []
       },
       "defName": "Kind",
       "name": "kind",
@@ -841,9 +713,7 @@
       "stats": [
         "-20% global work speed"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -851,9 +721,7 @@
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "-20% global work speed"
         ]
@@ -871,9 +739,7 @@
       "stats": [
         "Morbid meditation focus type allowed."
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -881,9 +747,7 @@
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "Morbid meditation focus type allowed."
         ]
@@ -898,12 +762,8 @@
     },
     {
       "description": "Timmy really dislikes and distrusts men.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
+      "stats": [],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -911,12 +771,8 @@
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
+        "conflicts": [],
+        "stats": []
       },
       "defName": "DislikesMen",
       "name": "misandrist",
@@ -928,12 +784,8 @@
     },
     {
       "description": "Timmy really dislikes and distrusts women.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
+      "stats": [],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -941,12 +793,8 @@
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
+        "conflicts": [],
+        "stats": []
       },
       "defName": "DislikesWomen",
       "name": "misogynist",
@@ -961,9 +809,7 @@
       "stats": [
         "+8% mental break threshold"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -971,9 +817,7 @@
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "+8% mental break threshold"
         ]
@@ -992,9 +836,7 @@
         "+20% global work speed",
         "+8% mental break threshold"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -1002,9 +844,7 @@
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "+20% global work speed",
           "+8% mental break threshold"
@@ -1020,12 +860,8 @@
     },
     {
       "description": "Timmy likes to be up during the night, and sleep during the day.\n\nhe gets a mood bonus if awake at night (23h-6h) and mood loss if awake during the day (11h-18h).\n\nhe doesn't get a mood penalty for being in the dark.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
+      "stats": [],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -1033,12 +869,8 @@
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
+        "conflicts": [],
+        "stats": []
       },
       "defName": "NightOwl",
       "name": "nightowl",
@@ -1054,9 +886,7 @@
         "+15.0 melee dodge chance",
         "x10% trap spring chance"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -1064,9 +894,7 @@
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "+15.0 melee dodge chance",
           "x10% trap spring chance"
@@ -1082,12 +910,8 @@
     },
     {
       "description": "Timmy enjoys the feeling of freedom that comes from being nude. he can handle clothing, but will be happier without it.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
+      "stats": [],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -1095,12 +919,8 @@
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
+        "conflicts": [],
+        "stats": []
       },
       "defName": "Nudist",
       "name": "nudist",
@@ -1112,12 +932,8 @@
     },
     {
       "description": "Timmy is naturally optimistic about life. It's hard to get him down.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
+      "stats": [],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -1125,12 +941,8 @@
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
+        "conflicts": [],
+        "stats": []
       },
       "defName": "NaturalMood",
       "name": "optimist",
@@ -1142,12 +954,8 @@
     },
     {
       "description": "Timmy tends to look on the bad side of life.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
+      "stats": [],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -1155,12 +963,8 @@
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
+        "conflicts": [],
+        "stats": []
       },
       "defName": "NaturalMood",
       "name": "pessimist",
@@ -1175,9 +979,7 @@
       "stats": [
         "+1.0 beauty"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -1185,9 +987,7 @@
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "+1.0 beauty"
         ]
@@ -1205,9 +1005,7 @@
       "stats": [
         "-100% psychic sensitivity"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -1215,9 +1013,7 @@
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "-100% psychic sensitivity"
         ]
@@ -1235,9 +1031,7 @@
       "stats": [
         "-50% psychic sensitivity"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -1245,9 +1039,7 @@
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "-50% psychic sensitivity"
         ]
@@ -1265,9 +1057,7 @@
       "stats": [
         "+80% psychic sensitivity"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -1275,9 +1065,7 @@
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "+80% psychic sensitivity"
         ]
@@ -1295,9 +1083,7 @@
       "stats": [
         "+40% psychic sensitivity"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -1305,9 +1091,7 @@
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "+40% psychic sensitivity"
         ]
@@ -1325,9 +1109,7 @@
       "stats": [
         "Morbid meditation focus type allowed."
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -1335,9 +1117,7 @@
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "Morbid meditation focus type allowed."
         ]
@@ -1356,9 +1136,7 @@
         "Flame meditation focus type allowed.",
         "Only mental break \"FireStartingSpree\" allowed."
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -1366,9 +1144,7 @@
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "Flame meditation focus type allowed.",
           "Only mental break \"FireStartingSpree\" allowed."
@@ -1387,9 +1163,7 @@
       "stats": [
         "+50% rest rate multiplier"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -1397,9 +1171,7 @@
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "+50% rest rate multiplier"
         ]
@@ -1414,12 +1186,8 @@
     },
     {
       "description": "Timmy is just naturally upbeat about his situation, pretty much all the time, no matter what it is.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
+      "stats": [],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -1427,12 +1195,8 @@
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
+        "conflicts": [],
+        "stats": []
       },
       "defName": "NaturalMood",
       "name": "sanguine",
@@ -1447,9 +1211,7 @@
       "stats": [
         "+4 medical"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -1457,9 +1219,7 @@
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "+4 medical"
         ]
@@ -1477,9 +1237,7 @@
       "stats": [
         "-35% global work speed"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -1487,9 +1245,7 @@
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "-35% global work speed"
         ]
@@ -1538,9 +1294,7 @@
         "Go frenzy inspiration disabled.",
         "-0.20 move speed"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -1548,9 +1302,7 @@
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "Go frenzy inspiration disabled.",
           "-0.20 move speed"
@@ -1569,9 +1321,7 @@
       "stats": [
         "-2.0 beauty"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -1579,9 +1329,7 @@
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "-2.0 beauty"
         ]
@@ -1599,9 +1347,7 @@
       "stats": [
         "-9% mental break threshold"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -1609,9 +1355,7 @@
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "-9% mental break threshold"
         ]
@@ -1629,9 +1373,7 @@
       "stats": [
         "+30% immunity gain speed"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -1639,9 +1381,7 @@
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "+30% immunity gain speed"
         ]
@@ -1660,9 +1400,7 @@
         "Binging on drug mental state disabled.",
         "Binging on drug mental state disabled."
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -1670,9 +1408,7 @@
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "Binging on drug mental state disabled.",
           "Binging on drug mental state disabled."
@@ -1731,9 +1467,7 @@
       "stats": [
         "Morbid meditation focus type allowed."
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -1741,9 +1475,7 @@
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "Morbid meditation focus type allowed."
         ]
@@ -1761,9 +1493,7 @@
       "stats": [
         "x50% incoming damage multiplier"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -1771,9 +1501,7 @@
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "x50% incoming damage multiplier"
         ]
@@ -1788,9 +1516,7 @@
     },
     {
       "description": "Timmy feels limited in his feeble human body. he often dreams of being enhanced by artificial body parts.",
-      "stats": [
-
-      ],
+      "stats": [],
       "conflicts": [
         "bodypurist"
       ],
@@ -1804,9 +1530,7 @@
         "conflicts": [
           "bodypurist"
         ],
-        "stats": [
-
-        ]
+        "stats": []
       },
       "defName": "Transhumanist",
       "name": "transhumanist",
@@ -1853,9 +1577,7 @@
       "stats": [
         "-1.0 beauty"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -1863,9 +1585,7 @@
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "-1.0 beauty"
         ]
@@ -1883,9 +1603,7 @@
       "stats": [
         "Morbid meditation focus type allowed."
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -1893,9 +1611,7 @@
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "Morbid meditation focus type allowed."
         ]
@@ -1914,9 +1630,7 @@
         "+40% global work speed",
         "+14% mental break threshold"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -1924,9 +1638,7 @@
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "+40% global work speed",
           "+14% mental break threshold"
@@ -1945,9 +1657,7 @@
       "stats": [
         "+15% mental break threshold"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -1955,9 +1665,7 @@
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "+15% mental break threshold"
         ]
@@ -2002,12 +1710,8 @@
     },
     {
       "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
+      "stats": [],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -2015,12 +1719,8 @@
         "karmaTypeForRemoving": null,
         "mod": "Humanoid Alien Races 2.0",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
+        "conflicts": [],
+        "stats": []
       },
       "defName": "Xenophobia",
       "name": "xenophile",
@@ -2032,12 +1732,8 @@
     },
     {
       "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
+      "stats": [],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -2045,12 +1741,8 @@
         "karmaTypeForRemoving": null,
         "mod": "Humanoid Alien Races 2.0",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
+        "conflicts": [],
+        "stats": []
       },
       "defName": "Xenophobia",
       "name": "xenophobe",
@@ -2066,9 +1758,7 @@
         "+2 social",
         "-6% mental break threshold"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -2076,9 +1766,7 @@
         "karmaTypeForRemoving": null,
         "mod": "Additional Traits (Heroes + Gods Optional)",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "+2 social",
           "-6% mental break threshold"
@@ -2176,9 +1864,7 @@
         "+25% global work speed",
         "-10% aiming time"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -2186,9 +1872,7 @@
         "karmaTypeForRemoving": null,
         "mod": "Additional Traits (Heroes + Gods Optional)",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "+2 crafting",
           "+2 artistic",
@@ -2211,9 +1895,7 @@
         "+0.3 shooting accuracy",
         "+0.1 melee hit chance"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -2221,9 +1903,7 @@
         "karmaTypeForRemoving": null,
         "mod": "Additional Traits (Heroes + Gods Optional)",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "+1 shooting",
           "+0.3 shooting accuracy",
@@ -2250,9 +1930,7 @@
         "+20% medical operation speed",
         "+20% medical tend speed"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -2260,9 +1938,7 @@
         "karmaTypeForRemoving": null,
         "mod": "Additional Traits (Heroes + Gods Optional)",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "+1 cooking",
           "-25% global work speed",
@@ -2288,9 +1964,7 @@
         "-10% global work speed",
         "-0.3 shooting accuracy"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -2298,9 +1972,7 @@
         "karmaTypeForRemoving": null,
         "mod": "Additional Traits (Heroes + Gods Optional)",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "-10% global work speed",
           "-0.3 shooting accuracy"
@@ -2319,9 +1991,7 @@
       "stats": [
         "+25% global learning factor"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -2329,9 +1999,7 @@
         "karmaTypeForRemoving": null,
         "mod": "Additional Traits (Heroes + Gods Optional)",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "+25% global learning factor"
         ]
@@ -2349,9 +2017,7 @@
       "stats": [
         "+25% eating speed"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -2359,9 +2025,7 @@
         "karmaTypeForRemoving": null,
         "mod": "Additional Traits (Heroes + Gods Optional)",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "+25% eating speed"
         ]
@@ -2414,12 +2078,8 @@
     },
     {
       "description": "Timmy could sleep through an earthquake.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
+      "stats": [],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -2427,12 +2087,8 @@
         "karmaTypeForRemoving": null,
         "mod": "Additional Traits (Heroes + Gods Optional)",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
+        "conflicts": [],
+        "stats": []
       },
       "defName": "GAT_HeavySleeper",
       "name": "heavysleeper",
@@ -2447,9 +2103,7 @@
       "stats": [
         "-1 social"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -2457,9 +2111,7 @@
         "karmaTypeForRemoving": null,
         "mod": "Additional Traits (Heroes + Gods Optional)",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "-1 social"
         ]
@@ -2474,12 +2126,8 @@
     },
     {
       "description": "Ashes to ashes and dust to dust. Timmy is fascinated by corpses and decay.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
+      "stats": [],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -2487,12 +2135,8 @@
         "karmaTypeForRemoving": null,
         "mod": "Additional Traits (Heroes + Gods Optional)",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
+        "conflicts": [],
+        "stats": []
       },
       "defName": "GAT_Morbid",
       "name": "morbid",
@@ -2511,9 +2155,7 @@
         "+60% medical surgery success chance",
         "+50% medical tend quality"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -2521,9 +2163,7 @@
         "karmaTypeForRemoving": null,
         "mod": "Additional Traits (Heroes + Gods Optional)",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "+1 medical",
           "+20% medical operation speed",
@@ -2547,9 +2187,7 @@
         "-50% mechanoid shredding speed",
         "+50% butchery speed"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -2557,9 +2195,7 @@
         "karmaTypeForRemoving": null,
         "mod": "Additional Traits (Heroes + Gods Optional)",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "+1 cooking",
           "-50% mechanoid shredding speed",
@@ -2582,9 +2218,7 @@
         "+50.00% tame animal chance",
         "-50.00% social impact"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -2592,9 +2226,7 @@
         "karmaTypeForRemoving": null,
         "mod": "Additional Traits (Heroes + Gods Optional)",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "+1 animals",
           "+50.00% train animal chance",
@@ -2620,9 +2252,7 @@
         "+10% psychic sensitivity",
         "+10% mental break threshold"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -2630,9 +2260,7 @@
         "karmaTypeForRemoving": null,
         "mod": "Additional Traits (Heroes + Gods Optional)",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "+1 intellectual",
           "+70% research speed",
@@ -2657,9 +2285,7 @@
         "+50% plant work speed",
         "+150% plant harvest yield"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -2667,9 +2293,7 @@
         "karmaTypeForRemoving": null,
         "mod": "Additional Traits (Heroes + Gods Optional)",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "+1 plants",
           "+50% plant work speed",
@@ -2691,9 +2315,7 @@
         "-10% construction speed",
         "+150% construct success chance"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -2701,9 +2323,7 @@
         "karmaTypeForRemoving": null,
         "mod": "Additional Traits (Heroes + Gods Optional)",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "+1 construction",
           "-10% construction speed",
@@ -2726,9 +2346,7 @@
         "+50% smoothing speed",
         "-75% plant harvest yield"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -2736,9 +2354,7 @@
         "karmaTypeForRemoving": null,
         "mod": "Additional Traits (Heroes + Gods Optional)",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "+1 mining",
           "+50% mining speed",
@@ -2849,9 +2465,7 @@
       "stats": [
         "-20.00% social impact"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -2859,9 +2473,7 @@
         "karmaTypeForRemoving": null,
         "mod": "Additional Traits (Heroes + Gods Optional)",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "-20.00% social impact"
         ]
@@ -2879,9 +2491,7 @@
       "stats": [
         "+20.00% social impact"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -2889,9 +2499,7 @@
         "karmaTypeForRemoving": null,
         "mod": "Additional Traits (Heroes + Gods Optional)",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "+20.00% social impact"
         ]
@@ -2909,9 +2517,7 @@
       "stats": [
         "+40.00% social impact"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -2919,9 +2525,7 @@
         "karmaTypeForRemoving": null,
         "mod": "Additional Traits (Heroes + Gods Optional)",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "+40.00% social impact"
         ]
@@ -2939,9 +2543,7 @@
       "stats": [
         "-20.00% negotiation ability"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -2949,9 +2551,7 @@
         "karmaTypeForRemoving": null,
         "mod": "Additional Traits (Heroes + Gods Optional)",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "-20.00% negotiation ability"
         ]
@@ -2969,9 +2569,7 @@
       "stats": [
         "+20.00% negotiation ability"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -2979,9 +2577,7 @@
         "karmaTypeForRemoving": null,
         "mod": "Additional Traits (Heroes + Gods Optional)",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "+20.00% negotiation ability"
         ]
@@ -2999,9 +2595,7 @@
       "stats": [
         "+40.00% negotiation ability"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -3009,9 +2603,7 @@
         "karmaTypeForRemoving": null,
         "mod": "Additional Traits (Heroes + Gods Optional)",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "+40.00% negotiation ability"
         ]
@@ -3129,9 +2721,7 @@
         "+50.0% Armor - Blunt",
         "+70.0% Armor - Sharp"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -3139,9 +2729,7 @@
         "karmaTypeForRemoving": null,
         "mod": "Additional Traits (Heroes + Gods Optional)",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "+6 melee",
           "-100% mental break threshold",
@@ -3168,9 +2756,7 @@
         "+80.0% Armor - Blunt",
         "+80.0% Armor - Sharp"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -3178,9 +2764,7 @@
         "karmaTypeForRemoving": null,
         "mod": "Additional Traits (Heroes + Gods Optional)",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "+2 melee",
           "+2 shooting",
@@ -3207,9 +2791,7 @@
         "+0.5 shooting accuracy",
         "+0.5 melee hit chance"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -3217,9 +2799,7 @@
         "karmaTypeForRemoving": null,
         "mod": "Additional Traits (Heroes + Gods Optional)",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "+1 melee",
           "+1 shooting",
@@ -3246,9 +2826,7 @@
         "+100.0% Armor - Blunt",
         "+120.0% Armor - Sharp"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -3256,9 +2834,7 @@
         "karmaTypeForRemoving": null,
         "mod": "Additional Traits (Heroes + Gods Optional)",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "+8 melee",
           "+1.0 shooting accuracy",
@@ -3289,9 +2865,7 @@
         "+120.0% Armor - Sharp",
         "+1 foraged food amount"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -3299,9 +2873,7 @@
         "karmaTypeForRemoving": null,
         "mod": "Additional Traits (Heroes + Gods Optional)",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "+8 shooting",
           "+50% hunting stealth",
@@ -3332,9 +2904,7 @@
         "+100.0% Armor - Blunt",
         "+120.0% Armor - Sharp"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -3342,9 +2912,7 @@
         "karmaTypeForRemoving": null,
         "mod": "Additional Traits (Heroes + Gods Optional)",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "+8 social",
           "+100.00% negotiation ability",
@@ -3373,9 +2941,7 @@
         "+100.0% Armor - Blunt",
         "+120.0% Armor - Sharp"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -3383,9 +2949,7 @@
         "karmaTypeForRemoving": null,
         "mod": "Additional Traits (Heroes + Gods Optional)",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "+8 intellectual",
           "+100% eating speed",
@@ -3417,9 +2981,7 @@
         "+120.0% Armor - Sharp",
         "+1 foraged food amount"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -3427,9 +2989,7 @@
         "karmaTypeForRemoving": null,
         "mod": "Additional Traits (Heroes + Gods Optional)",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "+4 plants",
           "+4 animals",
@@ -3462,9 +3022,7 @@
         "+100.0% Armor - Blunt",
         "+120.0% Armor - Sharp"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -3472,9 +3030,7 @@
         "karmaTypeForRemoving": null,
         "mod": "Additional Traits (Heroes + Gods Optional)",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "+4 crafting",
           "+4 construction",
@@ -3506,9 +3062,7 @@
         "+100.0% Armor - Blunt",
         "+120.0% Armor - Sharp"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -3516,9 +3070,7 @@
         "karmaTypeForRemoving": null,
         "mod": "Additional Traits (Heroes + Gods Optional)",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "+8 medical",
           "+100% medical tend speed",
@@ -3583,9 +3135,7 @@
         "-95% toxic sensitivity",
         "-90% mental break threshold"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -3593,9 +3143,7 @@
         "karmaTypeForRemoving": null,
         "mod": "Misc. Robots",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "+0.10 move speed",
           "+20% global work speed",
@@ -3618,9 +3166,7 @@
         "-20% general labor speed",
         "-25 carrying capacity"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -3628,9 +3174,7 @@
         "karmaTypeForRemoving": null,
         "mod": "More Than Capable",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "-20% general labor speed",
           "-25 carrying capacity"
@@ -3649,9 +3193,7 @@
       "stats": [
         "+0.60 move speed"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -3659,9 +3201,7 @@
         "karmaTypeForRemoving": null,
         "mod": "Traits Expanded!",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "+0.60 move speed"
         ]
@@ -3676,9 +3216,7 @@
     },
     {
       "description": "Some people see great value and potential in Timmy.",
-      "stats": [
-
-      ],
+      "stats": [],
       "conflicts": [
         "worthless"
       ],
@@ -3692,9 +3230,7 @@
         "conflicts": [
           "worthless"
         ],
-        "stats": [
-
-        ]
+        "stats": []
       },
       "defName": "Valuable",
       "name": "valuable",
@@ -3706,9 +3242,7 @@
     },
     {
       "description": "Some people see little value and potential in Timmy.",
-      "stats": [
-
-      ],
+      "stats": [],
       "conflicts": [
         "valuable"
       ],
@@ -3722,9 +3256,7 @@
         "conflicts": [
           "valuable"
         ],
-        "stats": [
-
-        ]
+        "stats": []
       },
       "defName": "Worthless",
       "name": "worthless",
@@ -3743,9 +3275,7 @@
         "+0.10 move speed",
         "+8% mental break threshold"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -3753,9 +3283,7 @@
         "karmaTypeForRemoving": null,
         "mod": "Traits Expanded!",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "+3 melee",
           "-10% aiming time",
@@ -3841,9 +3369,7 @@
       "stats": [
         "+6 intellectual"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -3851,9 +3377,7 @@
         "karmaTypeForRemoving": null,
         "mod": "Traits Expanded!",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "+6 intellectual"
         ]
@@ -3871,9 +3395,7 @@
       "stats": [
         "+3 intellectual"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -3881,9 +3403,7 @@
         "karmaTypeForRemoving": null,
         "mod": "Traits Expanded!",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "+3 intellectual"
         ]
@@ -3901,9 +3421,7 @@
       "stats": [
         "-3 intellectual"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -3911,9 +3429,7 @@
         "karmaTypeForRemoving": null,
         "mod": "Traits Expanded!",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "-3 intellectual"
         ]
@@ -3933,9 +3449,7 @@
         "-10% global learning factor",
         "-100% psychic sensitivity"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -3943,9 +3457,7 @@
         "karmaTypeForRemoving": null,
         "mod": "Traits Expanded!",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "-6 intellectual",
           "-10% global learning factor",
@@ -3966,9 +3478,7 @@
         "-4 melee",
         "-30% pain shock threshold"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -3976,9 +3486,7 @@
         "karmaTypeForRemoving": null,
         "mod": "Traits Expanded!",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "-4 melee",
           "-30% pain shock threshold"
@@ -3998,9 +3506,7 @@
         "+7 melee",
         "+120% pain shock threshold"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -4008,9 +3514,7 @@
         "karmaTypeForRemoving": null,
         "mod": "Traits Expanded!",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "+7 melee",
           "+120% pain shock threshold"
@@ -4030,9 +3534,7 @@
         "+5 social",
         "+20.00% social impact"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -4040,9 +3542,7 @@
         "karmaTypeForRemoving": null,
         "mod": "Traits Expanded!",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "+5 social",
           "+20.00% social impact"
@@ -4061,9 +3561,7 @@
       "stats": [
         "+4 melee"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -4071,9 +3569,7 @@
         "karmaTypeForRemoving": null,
         "mod": "Traits Expanded!",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "+4 melee"
         ]
@@ -4091,9 +3587,7 @@
       "stats": [
         "+25.0 melee dodge chance"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -4101,9 +3595,7 @@
         "karmaTypeForRemoving": null,
         "mod": "Traits Expanded!",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "+25.0 melee dodge chance"
         ]
@@ -4122,9 +3614,7 @@
         "-50% hunger rate multiplier",
         "+6% mental break threshold"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -4132,9 +3622,7 @@
         "karmaTypeForRemoving": null,
         "mod": "Traits Expanded!",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "-50% hunger rate multiplier",
           "+6% mental break threshold"
@@ -4154,9 +3642,7 @@
         "-50% rest rate multiplier",
         "-5% global work speed"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -4164,9 +3650,7 @@
         "karmaTypeForRemoving": null,
         "mod": "Traits Expanded!",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "-50% rest rate multiplier",
           "-5% global work speed"
@@ -4182,9 +3666,7 @@
     },
     {
       "description": "Timmy is forgetful and will lose unused skills much faster than others.",
-      "stats": [
-
-      ],
+      "stats": [],
       "conflicts": [
         "greatmemory"
       ],
@@ -4198,9 +3680,7 @@
         "conflicts": [
           "greatmemory"
         ],
-        "stats": [
-
-        ]
+        "stats": []
       },
       "defName": "Forgetful",
       "name": "forgetful",
@@ -4220,9 +3700,7 @@
         "+5% global learning factor",
         "-10% aiming time"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -4230,9 +3708,7 @@
         "karmaTypeForRemoving": null,
         "mod": "Traits Expanded!",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "-10% hunger rate multiplier",
           "+10% rest rate multiplier",
@@ -4261,9 +3737,7 @@
         "+20% global learning factor",
         "-20% aiming time"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -4271,9 +3745,7 @@
         "karmaTypeForRemoving": null,
         "mod": "Traits Expanded!",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "+2 intellectual",
           "+2 melee",
@@ -4305,9 +3777,7 @@
         "-30% aiming time",
         "+2.0 shooting accuracy"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -4315,9 +3785,7 @@
         "karmaTypeForRemoving": null,
         "mod": "Traits Expanded!",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "+4 intellectual",
           "+4 melee",
@@ -4343,9 +3811,7 @@
       "stats": [
         "+10% immunity gain speed"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -4353,9 +3819,7 @@
         "karmaTypeForRemoving": null,
         "mod": "Traits Expanded!",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "+10% immunity gain speed"
         ]
@@ -4373,9 +3837,7 @@
       "stats": [
         "+2 medical"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -4383,9 +3845,7 @@
         "karmaTypeForRemoving": null,
         "mod": "Traits Expanded!",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "+2 medical"
         ]
@@ -4400,12 +3860,8 @@
     },
     {
       "description": "Everything Timmy cooks turns into Dark matter.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
+      "stats": [],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -4413,12 +3869,8 @@
         "karmaTypeForRemoving": null,
         "mod": "Kijin Race 2.0",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
+        "conflicts": [],
+        "stats": []
       },
       "defName": "IncompetentCook",
       "name": "incompetentcook",
@@ -4433,9 +3885,7 @@
       "stats": [
         "-90.00% social impact"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -4443,9 +3893,7 @@
         "karmaTypeForRemoving": null,
         "mod": "Android tiers",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "-90.00% social impact"
         ]
@@ -4463,9 +3911,7 @@
       "stats": [
         "-90.00% social impact"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -4473,9 +3919,7 @@
         "karmaTypeForRemoving": null,
         "mod": "Android tiers",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "-90.00% social impact"
         ]
@@ -4498,9 +3942,7 @@
         "Only mental break \"InsultingSpree\" allowed.",
         "-90.00% social impact"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -4508,9 +3950,7 @@
         "karmaTypeForRemoving": null,
         "mod": "Android tiers",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "Only mental break \"Berserk\" allowed.",
           "Only mental break \"Slaughterer\" allowed.",
@@ -4530,12 +3970,8 @@
     },
     {
       "description": "Timmy has a deep fondness toward all humans, seeing them as not only their own creators but as parental figures.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
+      "stats": [],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -4543,12 +3979,8 @@
         "karmaTypeForRemoving": null,
         "mod": "Android tiers",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
+        "conflicts": [],
+        "stats": []
       },
       "defName": "FeelingsTowardHumanity",
       "name": "loveshumanity",
@@ -4560,12 +3992,8 @@
     },
     {
       "description": "Timmy has a deep hatred toward all of humanity, seeing them as nothing more than egotistical meatbags.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
+      "stats": [],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -4573,12 +4001,8 @@
         "karmaTypeForRemoving": null,
         "mod": "Android tiers",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
+        "conflicts": [],
+        "stats": []
       },
       "defName": "FeelingsTowardHumanity",
       "name": "hateshumanity",
@@ -4590,9 +4014,7 @@
     },
     {
       "description": "Timmy tends to occasionally allow their mind to drift, even in the middle of working.",
-      "stats": [
-
-      ],
+      "stats": [],
       "conflicts": [
         "workaholic",
         "industrious",
@@ -4614,9 +4036,7 @@
           "lazy",
           "slothful"
         ],
-        "stats": [
-
-        ]
+        "stats": []
       },
       "defName": "VTE_AbsentMinded",
       "name": "absent-minded",
@@ -4661,9 +4081,7 @@
       "stats": [
         "x65% global work speed"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -4671,9 +4089,7 @@
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "x65% global work speed"
         ]
@@ -4688,9 +4104,7 @@
     },
     {
       "description": "While fully capable of warfare in theory, Timmy's fight or flight instincts heavily lean towards flight, and he will try to hide or run as a first priority.",
-      "stats": [
-
-      ],
+      "stats": [],
       "conflicts": [
         "brawler",
         "brave",
@@ -4708,9 +4122,7 @@
           "brave",
           "bloodlust"
         ],
-        "stats": [
-
-        ]
+        "stats": []
       },
       "defName": "VTE_Coward",
       "name": "coward",
@@ -4756,9 +4168,7 @@
     },
     {
       "description": "Minor bruises and scrapes plague Timmy all too often, mostly due to uncoordinated tripping or falling.",
-      "stats": [
-
-      ],
+      "stats": [],
       "conflicts": [
         "nimble"
       ],
@@ -4772,9 +4182,7 @@
         "conflicts": [
           "nimble"
         ],
-        "stats": [
-
-        ]
+        "stats": []
       },
       "defName": "VTE_Clumsy",
       "name": "clumsy",
@@ -4846,12 +4254,8 @@
     },
     {
       "description": "A bomb could go off next to Timmy while they sleep and they'd continue to do so. They can't be bothered to defend the colony mid catnap, either.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
+      "stats": [],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -4859,12 +4263,8 @@
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
+        "conflicts": [],
+        "stats": []
       },
       "defName": "VTE_HeavySleeper",
       "name": "heavysleeper",
@@ -4876,9 +4276,7 @@
     },
     {
       "description": "Timmy is naturally hygenic and organized. They will not track in dirt or throw trash anywhere, and feel happy while cleaning.",
-      "stats": [
-
-      ],
+      "stats": [],
       "conflicts": [
         "slob"
       ],
@@ -4892,9 +4290,7 @@
         "conflicts": [
           "slob"
         ],
-        "stats": [
-
-        ]
+        "stats": []
       },
       "defName": "VTE_Neat",
       "name": "neat",
@@ -4906,9 +4302,7 @@
     },
     {
       "description": "Timmy is sloppy naturally and leaves trash and dirt everywhere it seems. At least they're not much bothered by messes.",
-      "stats": [
-
-      ],
+      "stats": [],
       "conflicts": [
         "neat"
       ],
@@ -4922,9 +4316,7 @@
         "conflicts": [
           "neat"
         ],
-        "stats": [
-
-        ]
+        "stats": []
       },
       "defName": "VTE_Slob",
       "name": "slob",
@@ -4936,9 +4328,7 @@
     },
     {
       "description": "Timmy has problems taking breaks or resting mid job. he will continue to work even sacrificing their health or sleep.",
-      "stats": [
-
-      ],
+      "stats": [],
       "conflicts": [
         "absent-minded",
         "industrious",
@@ -4960,9 +4350,7 @@
           "lazy",
           "slothful"
         ],
-        "stats": [
-
-        ]
+        "stats": []
       },
       "defName": "VTE_Workaholic",
       "name": "workaholic",
@@ -4974,9 +4362,7 @@
     },
     {
       "description": "Timmy has never felt nausea in his life. Throwing up or food poisoning is foreign to him.",
-      "stats": [
-
-      ],
+      "stats": [],
       "conflicts": [
         "squeamish"
       ],
@@ -4990,9 +4376,7 @@
         "conflicts": [
           "squeamish"
         ],
-        "stats": [
-
-        ]
+        "stats": []
       },
       "defName": "VTE_IronStomach",
       "name": "ironstomach",
@@ -5004,9 +4388,7 @@
     },
     {
       "description": "Timmy can't stand mistreatment of animals. he will feel happier being nuzzled or being a master to a bonded animal, but will be more deeply crushed when not master of a bonded animal or seeing one die. They also refuse to butcher.",
-      "stats": [
-
-      ],
+      "stats": [],
       "conflicts": [
         "animalhater"
       ],
@@ -5020,9 +4402,7 @@
         "conflicts": [
           "animalhater"
         ],
-        "stats": [
-
-        ]
+        "stats": []
       },
       "defName": "VTE_AnimalLover",
       "name": "animallover",
@@ -5034,9 +4414,7 @@
     },
     {
       "description": "Timmy believes deeply in human superiority. Killing animals will please them and the colony losing an animal is a cherry on top according to them.",
-      "stats": [
-
-      ],
+      "stats": [],
       "conflicts": [
         "animallover",
         "menagerist"
@@ -5052,9 +4430,7 @@
           "animallover",
           "menagerist"
         ],
-        "stats": [
-
-        ]
+        "stats": []
       },
       "defName": "VTE_AnimalHater",
       "name": "animalhater",
@@ -5066,12 +4442,8 @@
     },
     {
       "description": "Whether because they're a bit chunky or because they shift their weight oddly, Timmy has broken a few chairs in their time and is likely to break more.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
+      "stats": [],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -5079,12 +4451,8 @@
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
+        "conflicts": [],
+        "stats": []
       },
       "defName": "VTE_BigBoned",
       "name": "big-boned",
@@ -5096,9 +4464,7 @@
     },
     {
       "description": "Timmy only plays by their own rules, and will roll their eyes and take it easy while doing any task they've been forced to do.",
-      "stats": [
-
-      ],
+      "stats": [],
       "conflicts": [
         "submissive"
       ],
@@ -5112,9 +4478,7 @@
         "conflicts": [
           "submissive"
         ],
-        "stats": [
-
-        ]
+        "stats": []
       },
       "defName": "VTE_Rebel",
       "name": "rebel",
@@ -5126,9 +4490,7 @@
     },
     {
       "description": "Timmy needs clear instructions on how, and when to do certain things and will only work at a normal speed when being forced to do something.",
-      "stats": [
-
-      ],
+      "stats": [],
       "conflicts": [
         "rebel"
       ],
@@ -5142,9 +4504,7 @@
         "conflicts": [
           "rebel"
         ],
-        "stats": [
-
-        ]
+        "stats": []
       },
       "defName": "VTE_Submissive",
       "name": "submissive",
@@ -5156,9 +4516,7 @@
     },
     {
       "description": "Timmy is fueled by spite. They can't stand walking on the same soil as their rivals and will be elated by news of their life ending.",
-      "stats": [
-
-      ],
+      "stats": [],
       "conflicts": [
         "kind"
       ],
@@ -5172,9 +4530,7 @@
         "conflicts": [
           "kind"
         ],
-        "stats": [
-
-        ]
+        "stats": []
       },
       "defName": "VTE_Vengeful",
       "name": "vengeful",
@@ -5216,9 +4572,7 @@
     },
     {
       "description": "Timmy always recalls the good times and lives to party, any party attended will be remembered for many times longer than most.",
-      "stats": [
-
-      ],
+      "stats": [],
       "conflicts": [
         "anxious"
       ],
@@ -5232,9 +4586,7 @@
         "conflicts": [
           "anxious"
         ],
-        "stats": [
-
-        ]
+        "stats": []
       },
       "defName": "VTE_FunLoving",
       "name": "fun-loving",
@@ -5284,12 +4636,8 @@
     },
     {
       "description": "Timmy learned a specific move in melee combat which allows them to disarm opponents and will use it frequently.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
+      "stats": [],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -5297,12 +4645,8 @@
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
+        "conflicts": [],
+        "stats": []
       },
       "defName": "VTE_MartialArtist",
       "name": "martialartist",
@@ -5314,9 +4658,7 @@
     },
     {
       "description": "Timmy believes they belong in high society, and loves nothing more than critiquing art and brushing elbows with royalty.",
-      "stats": [
-
-      ],
+      "stats": [],
       "conflicts": [
         "ascetic"
       ],
@@ -5330,9 +4672,7 @@
         "conflicts": [
           "ascetic"
         ],
-        "stats": [
-
-        ]
+        "stats": []
       },
       "defName": "VTE_Snob",
       "name": "snob",
@@ -5344,9 +4684,7 @@
     },
     {
       "description": "Sour stomach plagues Timmy any time they're around too much blood or rotting corpses. Vomiting is just part of life for him.",
-      "stats": [
-
-      ],
+      "stats": [],
       "conflicts": [
         "ironstomach",
         "desensitized"
@@ -5362,9 +4700,7 @@
           "ironstomach",
           "desensitized"
         ],
-        "stats": [
-
-        ]
+        "stats": []
       },
       "defName": "VTE_Squeamish",
       "name": "squeamish",
@@ -5406,9 +4742,7 @@
     },
     {
       "description": "No amount of lovin' is enough lovin' for Timmy. he will tend to jump from partner to partner and tumble between the sheets with them frequently.",
-      "stats": [
-
-      ],
+      "stats": [],
       "conflicts": [
         "prude",
         "asexual",
@@ -5426,9 +4760,7 @@
           "asexual",
           "nudist"
         ],
-        "stats": [
-
-        ]
+        "stats": []
       },
       "defName": "VTE_Insatiable",
       "name": "insatiable",
@@ -5440,9 +4772,7 @@
     },
     {
       "description": "Timmy refuses to give their body to anybody but their spouse and would never fathom initiating a divorce. They also hate being nude much more than other pawns.",
-      "stats": [
-
-      ],
+      "stats": [],
       "conflicts": [
         "insatiable",
         "nudist"
@@ -5458,9 +4788,7 @@
           "insatiable",
           "nudist"
         ],
-        "stats": [
-
-        ]
+        "stats": []
       },
       "defName": "VTE_Prude",
       "name": "prude",
@@ -5472,12 +4800,8 @@
     },
     {
       "description": "An armchair and flatscreen is all Timmy needs to be happy. Even reruns or ancient commercials are entertaining to them, they will never grow bored of television and tend to watch it more, as well as feel pleased after doing so.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
+      "stats": [],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -5485,12 +4809,8 @@
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
+        "conflicts": [],
+        "stats": []
       },
       "defName": "VTE_CouchPotato",
       "name": "couchpotato",
@@ -5502,9 +4822,7 @@
     },
     {
       "description": "Timmy is mad for all things feline. They will naturally gravitate towards bonding with cats, however they're not a fan of dogs.",
-      "stats": [
-
-      ],
+      "stats": [],
       "conflicts": [
         "dogperson"
       ],
@@ -5518,9 +4836,7 @@
         "conflicts": [
           "dogperson"
         ],
-        "stats": [
-
-        ]
+        "stats": []
       },
       "defName": "VTE_CatPerson",
       "name": "catperson",
@@ -5532,9 +4848,7 @@
     },
     {
       "description": "Timmy is mad for all things canine. They will naturally gravitate towards bonding with dogs, however they're not a fan of cats.",
-      "stats": [
-
-      ],
+      "stats": [],
       "conflicts": [
         "catperson"
       ],
@@ -5548,9 +4862,7 @@
         "conflicts": [
           "catperson"
         ],
-        "stats": [
-
-        ]
+        "stats": []
       },
       "defName": "VTE_DogPerson",
       "name": "dogperson",
@@ -5626,12 +4938,8 @@
     },
     {
       "description": "The sea calls to Timmy. he feels happier just being near the ocean or a deep river.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
+      "stats": [],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -5639,12 +4947,8 @@
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
+        "conflicts": [],
+        "stats": []
       },
       "defName": "VTE_ChildOfSea",
       "name": "oceanlover",
@@ -5656,12 +4960,8 @@
     },
     {
       "description": "The mountains call to Timmy. he feels happier just being near a large mountain.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
+      "stats": [],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -5669,12 +4969,8 @@
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
+        "conflicts": [],
+        "stats": []
       },
       "defName": "VTE_ChildOfMountain",
       "name": "mountainlover",
@@ -5689,9 +4985,7 @@
       "stats": [
         "+20% surgery success chance factor"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -5699,9 +4993,7 @@
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "+20% surgery success chance factor"
         ]
@@ -5719,9 +5011,7 @@
       "stats": [
         "+4 melee"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -5729,9 +5019,7 @@
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "+4 melee"
         ]
@@ -5749,9 +5037,7 @@
       "stats": [
         "Only mental break \"VTE_Kleptomaniac\" allowed."
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -5759,9 +5045,7 @@
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "Only mental break \"VTE_Kleptomaniac\" allowed."
         ]
@@ -5776,9 +5060,7 @@
     },
     {
       "description": "Smokeleaf culture is just part of life for Timmy. he absolutely adores smokeleaf and would rather die before giving it up.",
-      "stats": [
-
-      ],
+      "stats": [],
       "conflicts": [
         "chemicalfascination",
         "chemicalinterest",
@@ -5798,9 +5080,7 @@
           "teetotaler",
           "lush"
         ],
-        "stats": [
-
-        ]
+        "stats": []
       },
       "defName": "VTE_Stoner",
       "name": "stoner",
@@ -5812,9 +5092,7 @@
     },
     {
       "description": "Alcohol culture is just part of life for Timmy. he absolutely adores booze and would rather die before giving it up.",
-      "stats": [
-
-      ],
+      "stats": [],
       "conflicts": [
         "chemicalfascination",
         "chemicalinterest",
@@ -5834,9 +5112,7 @@
           "teetotaler",
           "lush"
         ],
-        "stats": [
-
-        ]
+        "stats": []
       },
       "defName": "VTE_Lush",
       "name": "lush",
@@ -5851,9 +5127,7 @@
       "stats": [
         "+0.2 foraged food amount"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -5861,9 +5135,7 @@
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "+0.2 foraged food amount"
         ]
@@ -5910,12 +5182,8 @@
     },
     {
       "description": "Timmy has grown tired of the world and needs to be constantly distracted to stop dark thoughts. his bleak personality is a big downer and therefore it is very hard to become friends with them.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
+      "stats": [],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -5923,12 +5191,8 @@
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
+        "conflicts": [],
+        "stats": []
       },
       "defName": "VTE_WorldWeary",
       "name": "worldweary",
@@ -5940,9 +5204,7 @@
     },
     {
       "description": "Timmy is hardened through what can only be presumed as old emotional trauma. They feel absolutely nothing from lost animals, colonists, family, prisoners or dead bodies.",
-      "stats": [
-
-      ],
+      "stats": [],
       "conflicts": [
         "squeamish"
       ],
@@ -5956,9 +5218,7 @@
         "conflicts": [
           "squeamish"
         ],
-        "stats": [
-
-        ]
+        "stats": []
       },
       "defName": "VTE_Desensitized",
       "name": "desensitized",
@@ -6005,9 +5265,7 @@
         "+4 medical",
         "+20% medical tend quality"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -6015,9 +5273,7 @@
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "+4 intellectual",
           "+4 medical",
@@ -6040,9 +5296,7 @@
         "+20% mining yield",
         "+20% construction speed"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -6050,9 +5304,7 @@
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "+4 mining",
           "+4 construction",
@@ -6075,9 +5327,7 @@
         "+4 artistic",
         "-25.00% food poison chance"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -6085,9 +5335,7 @@
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "+4 cooking",
           "+4 artistic",
@@ -6110,9 +5358,7 @@
         "+20% plant harvest yield",
         "+20% butchery efficiency"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -6120,9 +5366,7 @@
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "+4 animals",
           "+4 plants",
@@ -6145,9 +5389,7 @@
         "+4 crafting",
         "+25.00% trade price improvement"
       ],
-      "conflicts": [
-
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
@@ -6155,9 +5397,7 @@
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
         "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
+        "conflicts": [],
         "stats": [
           "+4 social",
           "+4 crafting",
@@ -6174,9 +5414,7 @@
     },
     {
       "description": "Timmy is strangely hypercoagulating and will bleed much more slowly than most.",
-      "stats": [
-
-      ],
+      "stats": [],
       "conflicts": [
         "thinskinned"
       ],
@@ -6190,9 +5428,7 @@
         "conflicts": [
           "thinskinned"
         ],
-        "stats": [
-
-        ]
+        "stats": []
       },
       "defName": "VTE_ThickSkinned",
       "name": "thickskinned",
@@ -6204,9 +5440,7 @@
     },
     {
       "description": "Timmy is strangely hemophilic and tends to bleed much more profusely than others.",
-      "stats": [
-
-      ],
+      "stats": [],
       "conflicts": [
         "thickskinned"
       ],
@@ -6220,9 +5454,7 @@
         "conflicts": [
           "thickskinned"
         ],
-        "stats": [
-
-        ]
+        "stats": []
       },
       "defName": "VTE_ThinSkinned",
       "name": "thinskinned",
@@ -6234,9 +5466,7 @@
     },
     {
       "description": "Timmy has trouble expressing themselves until its all too much to bear, whereafter they will have an utter meltdown.",
-      "stats": [
-
-      ],
+      "stats": [],
       "conflicts": [
         "iron-willed",
         "steadfast",
@@ -6256,9 +5486,7 @@
           "nervous",
           "volatile"
         ],
-        "stats": [
-
-        ]
+        "stats": []
       },
       "defName": "VTE_Schizoid",
       "name": "schizoid",
