@@ -235,19 +235,6 @@
   },
   {
     "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "mod": "Twitch Toolkit"
-    },
-    "description": "Shows you the complete list of installed mods.",
-    "name": "Installed mods",
-    "usage": "!installedmods",
-    "userLevel": "Anyone",
-    "shortcut": false
-  },
-  {
-    "data": {
       "isShortcut": true,
       "isBuy": false,
       "isBalance": false,
