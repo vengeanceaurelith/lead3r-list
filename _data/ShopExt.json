@@ -5697,7 +5697,7 @@
       "defName": "Alien_Zabrak",
       "enabled": false,
       "name": "Zabrak",
-      "price": 3333
+      "price": -1
     },
     {
       "data": {
@@ -6037,7 +6037,7 @@
       "defName": "M7Mech",
       "enabled": true,
       "name": "M7 Mechanised infantry",
-      "price": 30000
+      "price": -1
     },
     {
       "data": {
@@ -6071,7 +6071,7 @@
       "defName": "Android5Tier",
       "enabled": true,
       "name": "T5 Android",
-      "price": 13333
+      "price": -1
     },
     {
       "data": {
