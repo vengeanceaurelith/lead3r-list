@@ -5697,7 +5697,7 @@
       "defName": "Alien_Zabrak",
       "enabled": false,
       "name": "Zabrak",
-      "price": -1
+      "price": 3333
     },
     {
       "data": {
@@ -6035,9 +6035,9 @@
       },
       "description": "A form of mechanized infantry, produced during an ancient time on this rimworld. These units are very strong, powerful war machines but are subsequently slow and have limited battery to them.",
       "defName": "M7Mech",
-      "enabled": true,
+      "enabled": false,
       "name": "M7 Mechanised infantry",
-      "price": -1
+      "price": 30000
     },
     {
       "data": {
@@ -6069,9 +6069,9 @@
       },
       "description": "A lost android, shunned from their transcendant community. The tech used to make them is beyond human comprehension, boasting near unlimited power and requiring little sustinence to operate. They deem all races other than themselves to be somewhat below them and believe that living on a rimworld is a fate worse than death.",
       "defName": "Android5Tier",
-      "enabled": true,
+      "enabled": false,
       "name": "T5 Android",
-      "price": -1
+      "price": 13333
     },
     {
       "data": {
